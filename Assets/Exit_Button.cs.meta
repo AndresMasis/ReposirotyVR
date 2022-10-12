@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dce1133694c9d7746bd341b20791f6bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RedButtonObject: {fileID: 3054524473285231728, guid: 091cd3f1c6fbcb840baf5816764a8527,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

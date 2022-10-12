@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d43bf4983ab6b914e87ef5b5a4b2ea4a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WallClockObject: {fileID: 724301717325129663, guid: ed9d61a9f6613044996e81235826dd03,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
